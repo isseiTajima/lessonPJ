@@ -1,0 +1,26 @@
+{
+    "1":{
+        "questionNo":1,
+        "questionDetail":"問題内容1",
+        "answerList":
+        [
+        {"no":1,"answer":"答え内容1","isAnswer":true},
+        {"no":2,"answer":"答え内容2","isAnswer":false},
+        {"no":3,"answer":"答え内容3","isAnswer":false},
+        {"no":4,"answer":"答え内容4","isAnswer":false}
+        ],
+        "answerNo":1
+    },
+    "2":{
+        "questionNo":2,
+        "questionDetail":"問題内容2",
+        "answerList":
+        [
+        {"no":1,"answer":"答え内容1","isAnswer":false},
+        {"no":2,"answer":"答え内容2","isAnswer":true},
+        {"no":3,"answer":"答え内容3","isAnswer":false},
+        {"no":4,"answer":"答え内容4","isAnswer":false}
+        ],
+        "answerNo":2
+    }
+}

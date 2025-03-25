@@ -1,1 +1,3 @@
 # lessonPJ
+reactnativeで構築したアプリです。
+ローカルな試験問題をjsonで読み込ませて、expo経由で使用できるようにします。
